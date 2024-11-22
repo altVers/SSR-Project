@@ -1,0 +1,17 @@
+.album-container {	
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.photo-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.photo-img {
+	height: 250px;
+	width: 250px;
+}
